@@ -1,0 +1,7 @@
+*{font-size:18px; font-family:"tahoma"; color:#222;}
+body{background-color:#eee;margin:0px;}
+label{font-size:11px;font-weight:bold;}
+.il{padding:3px 5px;font-size:10px;font-weight:bold;outline:none; border:solid 1px #ccc;background-color:#f9f9f9;width:150px}
+.s1{padding:3px 5px;font-size:10px;font-weight:bold;color:#444;border:solid 1px #555;background-color:#666;color:#eee;cursor:pointer;}
+
+#genel {margin:50px;background-color:#e1e1e1;padding:10px;border:solid 1px #d4d4d4;border-radius:2px;width:300px;}
